@@ -18,7 +18,7 @@ Run
 ```console
 python train.py
 ```
-This will dump `data.pth` file. And then run
+This will dump `chat_data.pth` file. And then run
 
 ### Run Chatbot App
 To run chatbot
